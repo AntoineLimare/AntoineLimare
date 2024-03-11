@@ -1,10 +1,11 @@
 <h1>Antoine LIMARE</h1>
-<p>Je suis un jeune codeur qui débute. Originaire de France, je code en des pages internet en HTML/CSS. </p>
+<p>Je suis un jeune codeur qui débute. Originaire de France, je code en des pages internets en HTML/CSS. </p>
 
 <img align="left" alt="HTML | Logo" width="21px" src="https://logodownload.org/wp-content/uploads/2016/10/html5-logo.png" />
-
-
-</br></br></br><table>
+<img align="left" alt="HTML | Logo" width="21px" src="https://logodownload.org/wp-content/uploads/2017/04/css-3-logo.png" />
+</br>
+<hr>
+</br><table>
   <tr><td>🌕🌑🌑</td>
       <td>🌕🌗🌑</td>
       <td>🌕🌕🌑</td>
@@ -23,10 +24,7 @@
       <td>HTML</td></tr>
 </table>
 
-<h2>Python</h2>
-<div class="content-container">
-<p>test</p>
-</div>
+
 
 
 <a href="https://www.instagram.com/at_limare/">
