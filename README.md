@@ -19,12 +19,23 @@
       <td>HTML</td></tr>
 </table>
 
-<p>Python</p>
-
+<h2>Python</h2>
+<div class="content-container">
+<p>test</p>
+</div>
 
 
 <style>
   h1{ 
     background-color: #ff3333;
   }
+  .content-container {
+    background-color: 
+pink;
+    display: block;
+    border:none;
+    padding: 0;
+    margin:0;
+    height: 200px;
+}
 </style>
