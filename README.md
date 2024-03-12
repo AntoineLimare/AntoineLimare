@@ -1,7 +1,9 @@
 <h1>Antoine LIMARE</h1>
 <p><strong>A propos de moi:</strong></p>
-  <p>Je suis un jeune codeur qui débute. Originaire de France, je code en des pages internets en HTML/CSS. </p>
+  <p>• Jeune codeur dans ses débuts.</p>
+  <p>• Je code en des pages internets en HTML/CSS. </p>
   <p>• Je maitrise aussi le python</p>
+  <p>• J'ai aussi des bases en SQL.</p>
   <p>• Je suis sapeur pompier volontaire dans l'eure(27).</p>
 
 <img align="left" alt="HTML | Logo" width="21px" src="https://logodownload.org/wp-content/uploads/2016/10/html5-logo.png" />
