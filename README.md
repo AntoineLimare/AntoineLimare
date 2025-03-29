@@ -1,5 +1,4 @@
 <h1>Antoine LIMARE</h1>
-<p><strong>A propos de moi:</strong></p>
 <img align="left" alt="HTML | Logo" width="21px" src="https://logodownload.org/wp-content/uploads/2016/10/html5-logo.png" />
 <img align="left" alt="HTML | Logo" width="21px" src="https://logodownload.org/wp-content/uploads/2017/04/css-3-logo.png" />
 <img align="left" alt="HTML | Logo" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" />
