@@ -1,7 +1,4 @@
 <h1>Antoine LIMARE</h1>
-<img align="left" alt="HTML | Logo" width="21px" src="https://logodownload.org/wp-content/uploads/2016/10/html5-logo.png" />
-<img align="left" alt="HTML | Logo" width="21px" src="https://logodownload.org/wp-content/uploads/2017/04/css-3-logo.png" />
-<img align="left" alt="HTML | Logo" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" />
 </br>
 <hr>
 </br><table>
@@ -17,6 +14,10 @@
       <td>HTML</td></tr>
 </table>
 
+
+<img align="left" alt="HTML | Logo" width="21px" src="https://logodownload.org/wp-content/uploads/2016/10/html5-logo.png" />
+<img align="left" alt="HTML | Logo" width="21px" src="https://logodownload.org/wp-content/uploads/2017/04/css-3-logo.png" />
+<img align="left" alt="HTML | Logo" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" />
 
 
 
